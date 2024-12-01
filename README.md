@@ -36,7 +36,7 @@
 
 ## Copy code
 
-## git clone https://github.com/your-username/Next.JS-Milestone-1.git
+## git clone https://github.com/anashakeem123/Next.JS-Milestone-1.git
 
 ## 2. Install dependencies
 
